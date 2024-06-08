@@ -9,3 +9,4 @@ public class String_Test8 {
         System.out.println(moji2.trim());
     }
 }
+
