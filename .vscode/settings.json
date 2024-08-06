@@ -1,0 +1,5 @@
+{
+  "code-runner.executorMap": {
+    "java": "cd /Users/yuu/code/java/java-basic/server/src && javac text/${fileDirname}/${fileName} && java -cp . text.${fileDirname/\\//.}.${fileNameWithoutExt}"
+  }
+}
